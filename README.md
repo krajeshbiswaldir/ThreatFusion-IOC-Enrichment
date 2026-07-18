@@ -26,6 +26,7 @@
 ## Install dependencies
 ```bash
 pip install requests pandas openpyxl reportlab jinja2 pycountry python-whois shodan tqdm
+
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/YOUR_USERNAME/ThreatFusion-IOC-Enrichment.git
